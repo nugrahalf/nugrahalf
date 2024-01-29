@@ -7,4 +7,4 @@
   </a> 
 </p>
 
-*"Curiosity courses through your veins like an electric current, forever charging your insatiable hunger for knowledge."*
+  *"Curiosity courses through your veins like an electric current, forever charging your insatiable hunger for knowledge."*
